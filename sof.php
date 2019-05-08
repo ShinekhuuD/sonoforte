@@ -15,8 +15,8 @@
  * @wordpress-plugin
  * Plugin Name:       Sonoforte
  * Plugin URI:        https://github.com/ShinekhuuD/sonoforte
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Description:       This plugin contains specific functions for Sonoforte.com
+ * Version:           1.0.1
  * Author:            Enkomion
  * Author URI:        https://enkomion.com
  * License:           GPL-2.0+
